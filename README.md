@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/SHANALIKA/N4si/blob/main/giphy.gif"  />
+  <img height="350" src="https://github.com/SHANALIKA/N4si/blob/main/giphy.gif"  />
 </div>
 
 ###
