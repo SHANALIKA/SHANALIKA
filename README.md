@@ -23,6 +23,10 @@ I am a Software Engineering undergraduate passionate about designing and develop
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel" height="45" />
 </p>
+### Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,laravel,wordpress" height="45" />
+</p>
 
 ### Database & Development Tools
 <p>
