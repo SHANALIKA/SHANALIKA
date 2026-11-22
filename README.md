@@ -1,114 +1,121 @@
-<!-- HEADER -->
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:7C3AED&height=220&section=header&text=SHANALIKA%20SAMADINI&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=SOFTWARE%20DEVELOPMENT%20%7C%20WEB%20%7C%20CREATIVE%20TECHNOLOGY&descAlignY=55&descSize=13" />
-</p>
+<!-- ═══════════════ PREMIUM PINK HEADER ═══════════════ -->
 
-<!-- INTRO -->
-<h1 align="center">Hello, I'm Shanalika 👋</h1>
+<div align="center">
 
-<h3 align="center">
-  Software Engineering Undergraduate | Aspiring Software Developer
-</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:190B28,35:70245F,70:C02680,100:F472B6&height=240&section=header&text=SHANALIKA%20SAMADINI&fontSize=43&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20WEB%20DEVELOPMENT%20%7C%20CREATIVE%20TECH&descSize=12&descAlignY=57" />
 
-<p align="center">
-  Creating digital experiences through code, creativity, and continuous learning.
-</p>
+<a href="https://github.com/SHANALIKA">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=650&lines=Software+Engineering+Undergraduate;Aspiring+Software+Developer;Web+%26+WordPress+Developer;Turning+Ideas+Into+Digital+Experiences" alt="Typing introduction" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/SHANALIKA">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/shanalika-samadini-571020204/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<br/>
+
+<a href="https://github.com/SHANALIKA">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-DB2777?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/shanalika-samadini-571020204/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-9333EA?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-## ✦ About Me
+## 💗 About Me
 
-I'm a Software Engineering undergraduate passionate about building meaningful digital solutions.
+Hello! I'm **Shanalika Samadini**, a Software Engineering undergraduate with a passion for technology, creativity, and problem-solving.
 
-My interests combine software engineering, web development, mobile applications, and creative design. I enjoy transforming ideas into functional applications and continuously exploring technologies that help me grow as a developer.
+I enjoy transforming ideas into functional digital solutions, combining software development with creative thinking to build meaningful user experiences.
 
 - 💻 Interested in Full-Stack Web Development.
-- 🌐 Exploring WordPress development and website customization.
-- 📱 Interested in Android and Flutter application development.
-- 🧩 Enjoy working with databases and backend technologies.
-- 🎨 Have an interest in UI/UX and digital creative design.
-- 🚀 Always learning, building, and improving.
+- 🌐 Exploring WordPress and custom website development.
+- ⚙️ Working with PHP, Laravel, Java, and MySQL.
+- 📱 Interested in Android and mobile application development.
+- 🎨 Exploring UI/UX and digital graphic design.
+- 🌱 Continuously learning and improving my development skills.
 
 ---
 
-## ⚡ Technology Stack
+## ✦ My Technology Universe
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=php,java,c,js" />
+### 💻 Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=php,java,c,js" />
 </p>
 
-### Web Development & CMS
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,wordpress" />
+### 🌐 Web Development & CMS
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel,wordpress" />
 </p>
 
-### Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode" />
+### 🗄️ Database & Development Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,vscode" />
 </p>
 
-### Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
+### 📱 Mobile Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
 </p>
 
-### Creative Design
-<p>
-  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+### 🎨 Creative Design
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
 
 ---
 
-## 📌 Featured Work
+## 🚀 Featured Projects
 
-I work on academic, personal, and practical development projects.
+<div align="center">
 
-Explore my repositories to discover my projects, experiments, and development journey.
+<a href="https://github.com/SHANALIKA?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-C02680?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<p align="center">
-  <a href="https://github.com/SHANALIKA?tab=repositories">
-    <img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<p>Discover my academic projects, personal applications, and development experiments.</p>
+
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHANALIKA&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANALIKA&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=SHANALIKA&theme=tokyonight&hide_border=true" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SHANALIKA&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHANALIKA&layout=compact&theme=radical&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=SHANALIKA&theme=radical&hide_border=true&border_radius=10" />
+
+</div>
 
 ---
 
-## 🤝 Let's Connect
+## 🌷 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shanalika-samadini-571020204/">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/SHANALIKA">
-    <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>Turning ideas into code, and code into possibilities.</i>
-</p>
+<a href="https://www.linkedin.com/in/shanalika-samadini-571020204/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-C02680?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:1D4ED8,100:0F172A&height=100&section=footer" />
+<a href="https://github.com/SHANALIKA">
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Journey-9333EA?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**"Code with purpose. Create with passion. Grow with curiosity."**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F472B6,45:C02680,100:190B28&height=120&section=footer" />
+
+</div>
