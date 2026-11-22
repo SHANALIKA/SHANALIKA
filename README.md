@@ -64,10 +64,9 @@ I enjoy transforming ideas into functional digital solutions, combining software
 
 ### 🎨 Creative Design
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
+<p>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator" />
 </p>
-
 ---
 
 ## 🚀 Featured Projects
